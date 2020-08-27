@@ -2,7 +2,7 @@
 
 ## Complete DeFi Stack
 
-![Switcheo DeFi](../img/switcheo-defi.png)
+![Switcheo DeFi](_image/switcheo-defi.png)
 
 Staking, Lending, Liquity Providers, Derivatives, Insurance, and Governance
 
