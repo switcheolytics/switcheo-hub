@@ -1,0 +1,5 @@
+> The first DEX on the NEO blockchain with advanced atomic swaps between Ethereum and EOs blockchains
+
+The product that launched Switcheo into existence has been around since 2018 and has had many different iterations and enhancements go into it. The user experience is seemless to pick up and all the hard work from the engineering team shows in how smooth the trading experience can be.
+
+Offering many unique DEX features and with the roadmap of the Exchange allowing it to tap into the TradeHub we will undoubtably see more changes to the exchange platform soon. This will be the place to trade spot market cryptocurrencies on a DEX once this integration occurs since TradeHub opens the door to any base layer chains (i.e. Bitcoin) and the wider Cosmos ecosystem with projects already existing like Binance, Kava, and Terra.
