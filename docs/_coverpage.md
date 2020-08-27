@@ -11,7 +11,7 @@
 - DeMex
 
 [TradeHub GitHub](https://github.com/Switcheo/tradehub)
-[Switcheo Hub GitHub](https://github.com/switcheolytics/switcheo-hub)
+<!-- [Switcheo Hub GitHub](https://github.com/switcheolytics/switcheo-hub) -->
 [Get Started](/getting-started/overview)
 
 <!-- background color -->
