@@ -10,9 +10,9 @@
 - TradeHub
 - DeMex
 
-[TradeHub GitHub](https://github.com/Switcheo/tradehub)
+<!-- [TradeHub GitHub](https://github.com/Switcheo/tradehub) -->
 <!-- [Switcheo Hub GitHub](https://github.com/switcheolytics/switcheo-hub) -->
 [Get Started](/getting-started/overview)
 
 <!-- background color -->
-![color](#06)
+<!-- ![color](#06) -->
