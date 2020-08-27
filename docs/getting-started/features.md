@@ -3,7 +3,7 @@
 ## Complete DeFi Stack
 
 <p align="center">
-  <img src="/img/switcheo-defi.png" align="center" />
+  <img src="img/switcheo-defi.png" align="center" />
 </p>
 
 
