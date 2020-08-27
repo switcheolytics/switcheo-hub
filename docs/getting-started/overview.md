@@ -12,6 +12,6 @@ The next stage of growth for the Switcheo Network is rapidly being created and h
 
 Here is a visual guide created by the Switcheo team to help understand how these new projects fit into the ecosystem.
 
-![Switcheo TradeHub](img/switcheo-tradehub.png)
+![Switcheo TradeHub](../img/switcheo-tradehub.png)
 
 > None of the information contained in this guide should be construed as financial advice or sway your decision making into buying or selling anything found within the Switcheo Network. This site is intended to be for combining the collective community knowledge and sharing it so that others can learn.
