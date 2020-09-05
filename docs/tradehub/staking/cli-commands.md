@@ -75,8 +75,7 @@ switcheocli query account <TradeHub Address>
 This example will send 10 SWTH to the address specified. Remember that values have to include all decimal places.
 
 ```
-/switcheocli tx bank send \
-  --from switcheolytics \
+switcheocli tx bank send \
   --yes \
   --fees 100000000swth \
   -b block \

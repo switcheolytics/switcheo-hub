@@ -7,6 +7,7 @@
   - Staking
 
     - [Overview](/tradehub/staking/overview.md)
+    - [Claim Calculation](/tradehub/staking/claim-calc.md)
     - [Web UI](/tradehub/staking/web.md)
     - [CLI Commands](/tradehub/staking/cli-commands.md)
 
@@ -18,6 +19,8 @@
   - Switcheo CLI
 
     - [Installation](/tradehub/switcheo-cli/installation.md)
+    - [Getting Started](/tradehub/switcheo-cli/getting-started.md)
+    - [Manual](/tradehub/switcheo-cli/manpage.md)
 
 - [**Switcheo Exchange**](/exchange/overview.md)
 
