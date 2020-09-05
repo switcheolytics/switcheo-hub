@@ -1,4 +1,14 @@
+## Interactive Dashboard
+
+> Special thanks to Kang, Intsol, Vincent, and Guardians for their work on this!
+
+https://public.tableau.com/profile/kang.long#!/vizhome/SWTHStakingAnalysis/ReadMe
+
+## Interest Rate Calculation
+
 > The origin of this discussion was from Telegram and thought it was worth including in this guide to help others have an idea around how often one should claim and stake.
+
+The dashboard above also takes into consideration the bonded percent of tokens, which significantly impacts the amount of rewards available while the formula below does not take the bonding percentage into consideration.
 
 ## Variables
 
